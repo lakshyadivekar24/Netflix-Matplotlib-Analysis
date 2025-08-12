@@ -53,4 +53,4 @@ From **content ratings** to **top countries**, **movie durations**, and **releas
 ![Movies vs TV Shows](Movies_&_TvShows_Comparision.png)
 
 ### **5️⃣ Release Year vs Shows**
-![Release Year]()
+![Release Year](Releases.png)
