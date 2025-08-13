@@ -41,16 +41,16 @@ From **content ratings** to **top countries**, **movie durations**, and **releas
 ## 📷 Visualizations
 
 ### **1️⃣ Content Ratings Distribution**
-![Content Rating Pie Chart](Content_Rating_Piechart.png)
+![Content Rating Pie Chart](images/Content_Rating_Piechart.png)
 
 ### **2️⃣ Top Countries Producing Netflix Content**
-![Top Countries](Countries_&_shows.png)
+![Top Countries](images/Countries_&_shows.png)
 
 ### **3️⃣ Movie Duration Distribution**
-![Movie Duration](movie_duration_histogram.png)
+![Movie Duration](images/movie_duration_histogram.png)
 
 ### **4️⃣ Movies vs TV Shows**
-![Movies vs TV Shows](Movies_&_TvShows_Comparision.png)
+![Movies vs TV Shows](images/Movies_&_TvShows_Comparision.png)
 
 ### **5️⃣ Release Year vs Shows**
-![Release Year](Releases.png)
+![Release Year](images/Releases.png)
